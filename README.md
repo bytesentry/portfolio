@@ -81,7 +81,7 @@ Mobile application that generates meal plans in a calendar-style interface using
 
 **Technologies:** Flutter, Dart, API integration  
 
-(Code private — available upon request)
+(Code private)
 
 ---
 
