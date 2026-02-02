@@ -104,6 +104,11 @@ Mobile application that generates meal plans in a calendar-style interface using
 - Cloud fundamentals and IAM  
 
 ---
+## 🎓 Education Highlights
+
+- Completed college coursework in computer programming
+- Topics included programming fundamentals, data structures, and basic software development
+
 
 ## 📫 Contact
 
