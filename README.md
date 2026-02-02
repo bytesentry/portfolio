@@ -71,15 +71,21 @@ Application that collects marketplace listing data from a third-party web platfo
 
 ---
 
-### 🔹 AI Meal Planner Mobile App
-Mobile application that generates meal plans in a calendar-style interface using an LLM.
+### 🔹 AI-Powered Meal Planning Mobile Application
 
-- Integrated LLM API for dynamic content generation  
-- Built mobile UI using Flutter  
-- Managed user inputs and application state  
-- Implemented basic data persistence  
+Mobile application that generates personalized meal plans using an integrated LLM, presented in a calendar-style interface with persistent local storage.
 
-**Technologies:** Flutter, Dart, API integration  
+- Designed and implemented multi-layered application architecture (UI, services, models, data access)
+- Built Flutter UI with modular pages and reusable widgets
+- Integrated local SQLite database using DAO pattern for structured data access
+- Designed relational tables for meals, meal types, pantry items, user profiles, and preferences
+- Implemented data persistence and retrieval using generated database bindings
+- Built service layer to manage AI interactions, nutrition data access, and application state
+- Integrated local AI service for generating meal suggestions based on user profile and goals
+- Implemented user profile creation, dietary preferences, pantry tracking, and settings management
+- Organized codebase for scalability and maintainability
+
+**Technologies:** Flutter, Dart, SQLite, Local Storage, API Integration
 
 (Code private)
 
