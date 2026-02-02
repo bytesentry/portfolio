@@ -1,6 +1,6 @@
 # Reginald Edgar – Portfolio
 
-Entry-level cybersecurity and technical support professional with experience in Python, SQL, Linux, and cybersecurity fundamentals.
+Entry-level cybersecurity and technical support professional with hands-on experience in Linux systems, Python development, monitoring concepts, and security operations fundamentals.
 
 ## 🔧 Skills
 
