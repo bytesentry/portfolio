@@ -101,7 +101,7 @@ Mobile application that generates personalized meal plans using an integrated LL
 
 ## 🎓 Training
 
-### Cybersecurity Bootcamp (ThriveDX / IronCircle)
+### Cybersecurity Bootcamp – University of Florida (Powered by ThriveDX / IronCircle)
 
 - SIEM fundamentals, log collection, alerts, dashboards.  
 - Detection engineering concepts and alert tuning.  
