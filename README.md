@@ -121,8 +121,6 @@ Mobile application that generates personalized meal plans using an integrated LL
 
 ## 🎓 Education Highlights
 
-## 🎓 Education Highlights
-
 - Completed extensive college-level coursework toward an Associate’s degree in Computer Programming  
 - Multi-semester coursework in C#, Java  
 - Additional coursework in C, VB.NET, ASP.NET, and Intro to Game Development  
