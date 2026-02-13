@@ -103,6 +103,8 @@ Mobile application that generates personalized meal plans using an integrated LL
 
 ### Cybersecurity Bootcamp – University of Florida (Powered by ThriveDX / IronCircle)
 
+📄 [View IR Expert Certification (PDF)](./IR Expert Certificate.pdf)
+
 - SIEM fundamentals, log collection, alerts, dashboards.  
 - Detection engineering concepts and alert tuning.  
 - Incident response lifecycle and DFIR fundamentals.  
