@@ -17,7 +17,7 @@ Entry-level cybersecurity and technical support professional with hands-on exper
 
 ## 📂 Projects
 
-### 🔹 xremap_gui
+### 🔹 [xremap_gui](https://github.com/bytesentry/xremap_gui)
 Graphical user interface for configuring and managing key and mouse remappings using xremap on Linux systems.
 
 - Built a Tkinter-based GUI wrapper around the xremap utility.  
