@@ -15,6 +15,37 @@ Entry-level cybersecurity and technical support professional with hands-on exper
 
 ---
 
+## 🎓 Training
+
+### Cybersecurity Bootcamp – University of Florida (Powered by ThriveDX / IronCircle)
+
+📜 **Certification:** [IronCircle IR Expert Certificate (PDF)](https://github.com/bytesentry/portfolio/blob/main/IR%20Expert%20Certificate.pdf)
+
+- SIEM fundamentals, log collection, alerts, dashboards.  
+- Detection engineering concepts and alert tuning.  
+- Incident response lifecycle and DFIR fundamentals.  
+- Windows and Linux live forensics.  
+- Network forensics and packet analysis.  
+- TCP/IP, subnetting, VLANs, ACLs.  
+- Firewalls, IDS/IPS, VPNs.  
+- Active Directory and Group Policy.  
+- System hardening and endpoint security.  
+- Threat hunting methodologies.  
+- OSINT, Nmap scanning, Metasploit basics.  
+- OWASP Top 10, XSS, SQL Injection.  
+- Cloud fundamentals and IAM.  
+
+---
+
+## 🎓 Education Highlights
+
+- Completed extensive college-level coursework toward an Associate’s degree in Computer Programming  
+- Multi-semester coursework in C#, Java  
+- Additional coursework in C, VB.NET, ASP.NET, and Intro to Game Development  
+- Covered programming fundamentals, object-oriented programming, data structures, and basic software engineering concepts  
+ 
+---
+
 ## 📂 Projects
 
 ### 🔹 [xremap_gui](https://github.com/bytesentry/xremap_gui)
@@ -97,37 +128,6 @@ Mobile application that generates personalized meal plans using an integrated LL
 - Diagnosed hardware issues (RAM, storage, PSU, GPU, motherboard).  
 - Performed component replacement and system troubleshooting.  
 
----
-
-## 🎓 Training
-
-### Cybersecurity Bootcamp – University of Florida (Powered by ThriveDX / IronCircle)
-
-📜 **Certification:** [IronCircle IR Expert Certificate (PDF)](https://github.com/bytesentry/portfolio/blob/main/IR%20Expert%20Certificate.pdf)
-
-- SIEM fundamentals, log collection, alerts, dashboards.  
-- Detection engineering concepts and alert tuning.  
-- Incident response lifecycle and DFIR fundamentals.  
-- Windows and Linux live forensics.  
-- Network forensics and packet analysis.  
-- TCP/IP, subnetting, VLANs, ACLs.  
-- Firewalls, IDS/IPS, VPNs.  
-- Active Directory and Group Policy.  
-- System hardening and endpoint security.  
-- Threat hunting methodologies.  
-- OSINT, Nmap scanning, Metasploit basics.  
-- OWASP Top 10, XSS, SQL Injection.  
-- Cloud fundamentals and IAM.  
-
----
-
-## 🎓 Education Highlights
-
-- Completed extensive college-level coursework toward an Associate’s degree in Computer Programming  
-- Multi-semester coursework in C#, Java  
-- Additional coursework in C, VB.NET, ASP.NET, and Intro to Game Development  
-- Covered programming fundamentals, object-oriented programming, data structures, and basic software engineering concepts  
- 
 ---
 
 ## 📫 Contact
