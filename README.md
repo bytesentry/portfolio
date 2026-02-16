@@ -29,7 +29,7 @@ Graphical user interface for configuring and managing key and mouse remappings u
 
 ---
 
-### 🔹 tickbar
+### 🔹 [Tickbar](https://github.com/bytesentry/tickbar)
 Cross-platform minimalist timer bar for visual countdowns.
 
 - Developed lightweight always-on-top Tkinter timer bar with configurable duration.  
@@ -41,7 +41,7 @@ Cross-platform minimalist timer bar for visual countdowns.
 
 ---
 
-### 🔹 inputAlerts
+### 🔹 [InputAlerts](https://github.com/bytesentry/InputAlerts)
 Python-based real-time event monitoring and alert system for configurable input triggers.
 
 - Built real-time event monitoring pipeline with configurable triggers.  
@@ -132,4 +132,5 @@ Mobile application that generates personalized meal plans using an integrated LL
 
 ## 📫 Contact
 
-GitHub: https://github.com/bytesentry
+Linkedin: [linkedin.com/in/reg-edgar](https://www.linkedin.com/in/reg-edgar/)
+Email: [bytesentry@proton.me](mailto:bytesentry@proton.me)
