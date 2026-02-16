@@ -133,4 +133,5 @@ Mobile application that generates personalized meal plans using an integrated LL
 ## 📫 Contact
 
 Linkedin: [linkedin.com/in/reg-edgar](https://www.linkedin.com/in/reg-edgar/)
+
 Email: [bytesentry@proton.me](mailto:bytesentry@proton.me)
