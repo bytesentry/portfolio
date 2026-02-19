@@ -4,14 +4,14 @@ Entry-level cybersecurity and technical support professional with hands-on exper
 
 ## 🔧 Skills
 
-- Python  
-- SQL  
-- Linux  
-- Tkinter  
 - Troubleshooting  
 - Log Analysis  
 - Networking Fundamentals  
-- Security Operations Fundamentals  
+- Security Operations Fundamentals
+- Linux
+- Python  
+- SQL  
+- Tkinter  
 
 ---
 
