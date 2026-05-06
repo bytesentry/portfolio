@@ -20,6 +20,8 @@ Entry-level cybersecurity and technical support professional with hands-on exper
 - **IronCircle IR Expert** – Issued Dec 2025 | [Certificate (PDF)](https://github.com/bytesentry/portfolio/blob/main/IR%20Expert%20Certificate.pdf)
 - **CompTIA Network+** – In Progress
 
+---
+
 ## 🎓 Training
 
 ### Cybersecurity Bootcamp – University of Florida (Powered by ThriveDX / IronCircle)
