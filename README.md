@@ -19,7 +19,9 @@ Entry-level cybersecurity and technical support professional with hands-on exper
 
 ### Cybersecurity Bootcamp – University of Florida (Powered by ThriveDX / IronCircle)
 
-📜 **Certification:** [IronCircle IR Expert Certificate (PDF)](https://github.com/bytesentry/portfolio/blob/main/IR%20Expert%20Certificate.pdf)
+📜 **Certification:** [CompTIA Security+ (PDF)](https://github.com/bytesentry/portfolio/blob/main/CompTIA%20Security+%20%20ce%20certificate.pdf)
+[IronCircle IR Expert Certificate (PDF)](https://github.com/bytesentry/portfolio/blob/main/IR%20Expert%20Certificate.pdf)
+
 
 - SIEM fundamentals, log collection, alerts, dashboards.  
 - Detection engineering concepts and alert tuning.  
