@@ -109,6 +109,12 @@ Application that collects marketplace listing data from a third-party web platfo
 ### 🔹 AI-Powered Meal Planning Mobile Application
 Mobile application that generates personalized meal plans using an integrated LLM, presented in a calendar-style interface with persistent local storage.
 
+## 🎥 Demo
+
+[![Watch the Meal Planner Demo](assets/demo-thumbnail.png)](meal_planner_demo.mp4)
+
+**▶️ [Watch the full demo](meal_planner_demo.mp4)**
+
 - Designed and implemented multi-layered application architecture (UI, services, models, data access).  
 - Built Flutter UI with modular pages and reusable widgets.  
 - Integrated local SQLite database using DAO pattern for structured data access.  
@@ -117,11 +123,28 @@ Mobile application that generates personalized meal plans using an integrated LL
 - Built service layer to manage AI interactions, nutrition data access, and application state.  
 - Integrated local AI service for generating meal suggestions based on user profile and goals.  
 - Implemented user profile creation, dietary preferences, pantry tracking, and settings management.  
-- Organized codebase for scalability and maintainability.  
+- Organized codebase for scalability and maintainability.
 
 **Technologies:** Flutter, Dart, SQLite, Local Storage, API Integration 
 
-(Code not publicly available — in active development, demo available upon request)
+(Code not publicly available — in active development. See demo.)
+
+### 🔹 [ACTrigger](https://github.com/bytesentry/ACTrigger)
+
+C#/.NET application and Decal plugin for monitoring Asheron's Call game
+logs and providing real-time configurable triggers, notifications, and
+in-game HUD overlays.
+
+- Built a log monitoring and event-processing pipeline for real-time game events.
+- Developed a Decal plugin integrating with the game client and UtilityBelt logs.
+- Implemented configurable triggers for combat, debuffs, system events, and other log activity.
+- Built Avalonia UI for configuration, trigger management, and application state.
+- Developed custom in-game HUD rendering and nameplate generation.
+- Implemented asynchronous processing and caching to reduce impact on the game client.
+- Investigated and resolved threading, rendering, and long-running stability issues.
+- Maintained the project through iterative feature development, debugging, and performance improvements.
+
+**Technologies:** C#, .NET, Avalonia UI, Decal, MVVM, asynchronous programming, file/log monitoring
 
 ---
 
