@@ -127,9 +127,7 @@ Application that collects marketplace listing data from a third-party web platfo
 ### 🔹 AI-Powered Meal Planning Mobile Application
 Mobile application that generates personalized meal plans using an integrated LLM, presented in a calendar-style interface with persistent local storage.
 
-## 🎥 Demo
-
-**▶️ [Watch the full demo](meal_planner_demo.mp4)**
+🎥 [View Demo](https://bytesentry.github.io/meal-planner.html)
 
 - Designed and implemented multi-layered application architecture (UI, services, models, data access).  
 - Built Flutter UI with modular pages and reusable widgets.  
