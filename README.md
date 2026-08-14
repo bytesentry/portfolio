@@ -111,8 +111,6 @@ Mobile application that generates personalized meal plans using an integrated LL
 
 ## 🎥 Demo
 
-[![Watch the Meal Planner Demo](assets/demo-thumbnail.png)](meal_planner_demo.mp4)
-
 **▶️ [Watch the full demo](meal_planner_demo.mp4)**
 
 - Designed and implemented multi-layered application architecture (UI, services, models, data access).  
