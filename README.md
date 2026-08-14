@@ -64,6 +64,25 @@ Graphical user interface for configuring and managing key and mouse remappings u
 
 ---
 
+### 🔹 [ACTrigger](https://github.com/bytesentry/ACTrigger)
+
+C#/.NET application and Decal plugin for monitoring Asheron's Call game
+logs and providing real-time configurable triggers, notifications, and
+in-game HUD overlays.
+
+- Built a log monitoring and event-processing pipeline for real-time game events.
+- Developed a Decal plugin integrating with the game client and UtilityBelt logs.
+- Implemented configurable triggers for combat, debuffs, system events, and other log activity.
+- Built Avalonia UI for configuration, trigger management, and application state.
+- Developed custom in-game HUD rendering and nameplate generation.
+- Implemented asynchronous processing and caching to reduce impact on the game client.
+- Investigated and resolved threading, rendering, and long-running stability issues.
+- Maintained the project through iterative feature development, debugging, and performance improvements.
+
+**Technologies:** C#, .NET, Avalonia UI, Decal, MVVM, asynchronous programming, file/log monitoring
+
+---
+
 ### 🔹 [Tickbar](https://github.com/bytesentry/tickbar)
 Cross-platform minimalist timer bar for visual countdowns.
 
@@ -126,23 +145,6 @@ Mobile application that generates personalized meal plans using an integrated LL
 **Technologies:** Flutter, Dart, SQLite, Local Storage, API Integration 
 
 (Code not publicly available — in active development. See demo.)
-
-### 🔹 [ACTrigger](https://github.com/bytesentry/ACTrigger)
-
-C#/.NET application and Decal plugin for monitoring Asheron's Call game
-logs and providing real-time configurable triggers, notifications, and
-in-game HUD overlays.
-
-- Built a log monitoring and event-processing pipeline for real-time game events.
-- Developed a Decal plugin integrating with the game client and UtilityBelt logs.
-- Implemented configurable triggers for combat, debuffs, system events, and other log activity.
-- Built Avalonia UI for configuration, trigger management, and application state.
-- Developed custom in-game HUD rendering and nameplate generation.
-- Implemented asynchronous processing and caching to reduce impact on the game client.
-- Investigated and resolved threading, rendering, and long-running stability issues.
-- Maintained the project through iterative feature development, debugging, and performance improvements.
-
-**Technologies:** C#, .NET, Avalonia UI, Decal, MVVM, asynchronous programming, file/log monitoring
 
 ---
 
